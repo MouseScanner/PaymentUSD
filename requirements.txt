@@ -1,0 +1,10 @@
+tornado
+psycopg2-binary
+celery
+redis
+sqlalchemy
+alembic
+pydantic
+python-dotenv
+pytest
+pytest-asyncio 
